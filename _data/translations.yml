@@ -277,3 +277,22 @@ footer-misc-accessibility-statement-url:
 footer-misc-accessibility-statement:
   nl: Toegankelijkheidsverklaring
   en: Accessibility statement
+
+# Media element (used for videos)
+# See _includes/components/mediaplayer.html
+
+mediaelement-download-title:
+  nl: Download deze video
+  en: Download this video
+mediaelement-download-mp4-video:
+  nl: MP4-video
+  en: MP4-video
+mediaelement-download-mp3-voiceover:
+  nl: MP3-audiospoor (voiceover)
+  en: MP3-audio (voiceover)
+mediaelement-download-subtitle:
+  nl: Ondertitelingsbestand
+  en: Subtitle
+mediaelement-transcript-title:
+  nl: Uitgeschreven tekst van de video
+  en: Written out text of the video

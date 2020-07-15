@@ -1,3 +1,6 @@
 .sass-cache
 _site/
 Gemfile.lock
+
+media/*/*.mp3
+media/*/*.mp4
