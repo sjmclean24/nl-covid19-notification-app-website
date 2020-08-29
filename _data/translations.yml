@@ -396,12 +396,30 @@ error-logo-alt:
   nl: 404-coronamelder
   en: 404-coronamelder
 
+##Homepage (index.md)
+info-app-store-alt:
+  nl: App Store
+  en: App Store
+
+info-google-play-alt:
+  nl: Google Play
+  en: Google Play
+
 #Link Title Attribute Value Translation Strings
 ##404 Page (404.md)
-error-back-to-home-alt:
+error-back-to-home-title:
   nl:
   en:
 
-error-back-to-faq-alt:
+error-back-to-faq-title:
+  nl:
+  en:
+
+##Homepage (index.md)
+info-app-store-title:
+  nl:
+  en:
+
+info-google-play-title:
   nl:
   en:
