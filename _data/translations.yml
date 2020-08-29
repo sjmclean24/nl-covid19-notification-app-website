@@ -390,3 +390,18 @@ error-back-to-faq:
   nl: Ga naar veelgestelde vragen
   en: Go to frequently asked questions
   
+#Image Alt Attribute Value Translation Strings
+##404 Page (404.md)
+error-logo-alt:
+  nl: 404-coronamelder
+  en: 404-coronamelder
+
+#Link Title Attribute Value Translation Strings
+##404 Page (404.md)
+error-back-to-home-alt:
+  nl:
+  en:
+
+error-back-to-faq-alt:
+  nl:
+  en:
